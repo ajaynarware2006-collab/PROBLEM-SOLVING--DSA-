@@ -1,3 +1,3 @@
-def dominantIndex(nums):
-    index=0
-    largest=nums[0]
+
+# print(maxVowels("leetcode",3))
+# print(maxVowels("aeiou",2))
